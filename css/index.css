@@ -19,10 +19,13 @@
 }
 #dmytrom{
     margin: 10px;
-    margin-left: -60px;
 }
 .d-block{
+    min-width: 400px;
     margin: auto;
-    height: 500px;
-    width: auto;
+    height: auto;
+    width: 400;
+}
+#ed{
+    margin-top: 40px;
 }
