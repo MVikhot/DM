@@ -17,20 +17,18 @@
 #logo{
     font-family: 'Montserrat', sans-serif;
 }
-#dmytrom{
-    
-}
-.d-block{
-    margin: auto;
-    height: auto;
-    width: 570px;
-}
+
 #ed{
     margin-top: 40px;
 }
 #reg{
     height: 80px;
 }
-#prevbt{
-    color: black;
+#caruselv{
+    max-width: 750px;
+    margin: auto;
+}
+#caruselh{
+    max-width: 750px;
+    margin: auto;
 }
