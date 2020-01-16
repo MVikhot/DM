@@ -16,10 +16,14 @@
 }
 #logo{
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
 }
-
+.navbar-brand{
+    border: white;
+}
 #ed{
     margin-top: 40px;
+    
 }
 #reg{
     height: 80px;
