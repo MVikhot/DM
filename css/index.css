@@ -36,3 +36,18 @@
     max-width: 750px;
     margin: auto;
 }
+#topHead{
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+.links{
+    text-decoration-line: underline;
+    color: white;  
+}
+.links:hover{
+    color: blue;
+}
+.ds{
+    color: white;
+}
