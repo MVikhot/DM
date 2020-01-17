@@ -52,8 +52,11 @@
 .lin{
     color: white;
 }
+.lin:hover{
+    color: white;
+}
 .links:hover{
-    color: blue;
+    color: white;
 }
 .ds{
     color: white;
