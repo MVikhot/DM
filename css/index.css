@@ -16,7 +16,6 @@
 }
 #logo{
     font-family: 'Montserrat', sans-serif;
-    margin: 0;
 }
 .navbar-brand{
     border: white;
@@ -43,7 +42,11 @@
 }
 .links{
     text-decoration-line: underline;
-    color: white;  
+    color: white; 
+    margin: auto; 
+}
+.lin{
+    color: white;
 }
 .links:hover{
     color: blue;
@@ -51,6 +54,10 @@
 .ds{
     color: white;
 }
-#contacts{
-    /* background-color: white; */
+#logo{
+    height: auto;
+    width: 20%
+}
+#navbarColor01{
+    margin: auto;
 }
